@@ -1,8 +1,7 @@
-
 import './App.css';
 import {Fragment} from 'react'
-import InputTodo from './components/InputTodo';
-import ListTodos from './components/ListTodos'
+import InputTodo from './component/InputTodo'
+import ListTodos from './component/ListTodos'
 
 function App() {
   return (
